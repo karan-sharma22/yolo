@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+paddlepaddle
+paddleocr
+numpy
+pandas

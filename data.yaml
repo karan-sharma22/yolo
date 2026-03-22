@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['IndianNumberPlate']
+
+roboflow:
+  workspace: karans-workspace-ac4os
+  project: indian-number-plate-8o1gg
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/karans-workspace-ac4os/indian-number-plate-8o1gg/dataset/1
